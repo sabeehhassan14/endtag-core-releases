@@ -10,5 +10,17 @@
     "requires": "6.9",
     "requiresPhp": "8.1",
     "note": "A test channel for proving the update path on one test site."
+  },
+  "test": {
+    "version": "0.1.0-alpha.16",
+    "date": "2026-10-13",
+    "class": "feature",
+    "package": "https://github.com/sabeehhassan14/endtag-core-releases/releases/download/v0.1.0-alpha.16/endtag-core-0.1.0-alpha.16.zip",
+    "sha256": "01aa6189014fdda7c70b8b4f638601c1bd137c5d1a349f5a8467498853e1b77c",
+    "signature": "78U8J/ULgx7c9Ewp1xylcPNda2VEy8RnbiqByXwnrsg6MEuHI4QhaEeDxUtgHwTFV3IzMGc8kdy0aqEWp1L+DQ==",
+    "tested": "7.1",
+    "requires": "6.9",
+    "requiresPhp": "8.1",
+    "note": "Broken on purpose: the signed hash was changed. A site must refuse it."
   }
 }
