@@ -1,14 +1,14 @@
 {
   "canary": {
-    "version": "0.1.0-alpha.13",
+    "version": "0.1.0-alpha.14",
     "date": "2026-10-13",
-    "class": "fix",
-    "package": "https://github.com/sabeehhassan14/endtag-core-releases/releases/download/v0.1.0-alpha.13/endtag-core-0.1.0-alpha.13.zip",
-    "sha256": "95d4815c9635a1045e3e25dcfeccda00c52270ea41fc6f035537605a8cc40947",
-    "signature": "LcaN0BI0ZdJcL36yC5NaRheqzXUT9ouqLO34wpIBFUWJr+ceGBHwV0zNHVl4/p6CP7ZqVHKF7FrYzI6zDFX4Ag==",
+    "class": "feature",
+    "package": "https://github.com/sabeehhassan14/endtag-core-releases/releases/download/v0.1.0-alpha.14/endtag-core-0.1.0-alpha.14.zip",
+    "sha256": "bd86f24e3f139730a773d26f4bf827f316b1f780dd585b4b943603dd16665523",
+    "signature": "m3fr4yMehdQO4Eqgo8vwk7Od0syi4iS3mC9ItyJ4qRCj47cieWCTJp6Vg+0aOe23tANEOA3xLERawuUixlcoBQ==",
     "tested": "7.1",
     "requires": "6.9",
     "requiresPhp": "8.1",
-    "note": ""
+    "note": "Backup signing key; tested-up-to display fix."
   }
 }
