@@ -22,5 +22,17 @@
     "requires": "6.9",
     "requiresPhp": "8.1",
     "note": "Test of the automatic install: service user (role, user, Health tab button)."
+  },
+  "stable": {
+    "version": "0.1.0-alpha.20",
+    "date": "2026-10-14",
+    "class": "feature",
+    "package": "https://github.com/sabeehhassan14/endtag-core-releases/releases/download/v0.1.0-alpha.20/endtag-core-0.1.0-alpha.20.zip",
+    "sha256": "aa4708e6a5c1008a34fdb023aeae52a5ed7c88814874ef3bb3d7e0c5f2e9cfd6",
+    "signature": "eYK6ccHLhMtBK9MagT3ppd08FYOsg9SPOBy8ETQPp9BNP0tl85ovfHZTCjLnb4k20u6Kq/9X5TeEeu9PoiFJCQ==",
+    "tested": "7.1",
+    "requires": "6.9",
+    "requiresPhp": "8.1",
+    "note": "Service user: administrator-level role without user management; setup notice for administrators."
   }
 }
