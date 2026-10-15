@@ -1,15 +1,15 @@
 {
   "canary": {
-    "version": "0.1.0-alpha.21",
-    "date": "2026-10-14",
-    "class": "fix",
-    "package": "https://github.com/sabeehhassan14/endtag-core-releases/releases/download/v0.1.0-alpha.21/endtag-core-0.1.0-alpha.21.zip",
-    "sha256": "b47958eabb720bae60b89b1fc4e35c840c82b5ab57b701e909da0e51534b75ec",
-    "signature": "ft5B7yUxxRXDTvSTf4kPhh86L+j5K94PUw8l7WwYWFR4NiVFi17F3mr0vUAeF3Zk3N8Nx5X6C0ChQ3WlD8YtAg==",
+    "version": "0.1.0-alpha.22",
+    "date": "2026-10-15",
+    "class": "feature",
+    "package": "https://github.com/sabeehhassan14/endtag-core-releases/releases/download/v0.1.0-alpha.22/endtag-core-0.1.0-alpha.22.zip",
+    "sha256": "f0c6b7ef99d914ccb66599878edaf7c03c8b9ffcf30b8e534822891fb83820d2",
+    "signature": "oTFBuuQ+3uula/ruurGxh5GsOau3MPI06Opy9mZdf/6yfN+wjDJgxCsr+e69Mjt3aZzFch48iFkbYa1R3oaGCg==",
     "tested": "7.1",
     "requires": "6.9",
     "requiresPhp": "8.1",
-    "note": "Icons and other served assets load in the Etch builder canvas."
+    "note": ""
   },
   "test": {
     "version": "0.1.0-alpha.18",
