@@ -1,15 +1,15 @@
 {
   "canary": {
-    "version": "0.1.0-alpha.35",
+    "version": "0.1.0-alpha.36",
     "date": "2026-10-22",
-    "class": "fix",
-    "package": "https://github.com/sabeehhassan14/endtag-core-releases/releases/download/v0.1.0-alpha.35/endtag-core-0.1.0-alpha.35.zip",
-    "sha256": "45652d2887d5e9fadec562b5ef62cbee6210f9e383710ce26e9c780e04a10cd8",
-    "signature": "ciXLHZ1Drm5S1Qv1Is4D4mCoa8FalTcd4OKSULXp2KWEXWTkPN3pj5cs8UW5Su8cgJDgVFxzLJcGdqsU+H47AA==",
+    "class": "feature",
+    "package": "https://github.com/sabeehhassan14/endtag-core-releases/releases/download/v0.1.0-alpha.36/endtag-core-0.1.0-alpha.36.zip",
+    "sha256": "990112bd26597efbfe40556f8c36997c86bbdc92a1403ccf22fff06d66c9bc0a",
+    "signature": "u7OeTn2dS/SB6HjFjWKKtJMSHc3B2zXFvljpeh9ZjHM+nZ8k6lLgS8baPYGLAVK8eN4FSbfiBNf4QECA8VjTBg==",
     "tested": "7.1",
     "requires": "6.9",
     "requiresPhp": "8.1",
-    "note": "Consent: compact corner panel with switches and transitions, compact placeholders, service names in the admin screen."
+    "note": "Cookie consent tab with own services and detected hosts; 14 more catalogue services; consent files only on pages that need them."
   },
   "test": {
     "version": "0.1.0-alpha.18",
