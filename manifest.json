@@ -1,15 +1,15 @@
 {
   "canary": {
-    "version": "0.1.0-alpha.40",
+    "version": "0.1.0-alpha.41",
     "date": "2026-10-22",
     "class": "feature",
-    "package": "https://github.com/sabeehhassan14/endtag-core-releases/releases/download/v0.1.0-alpha.40/endtag-core-0.1.0-alpha.40.zip",
-    "sha256": "14748699bd5120dc7792805f6c06ac96686502a59d82d9c1677a39a956238e52",
-    "signature": "xWudLat1ydmCqOSIFED0jzV7qgkmgF76vueewFmWxNd5omH37AfG8A45HRykU+kzYJkGO1tS0m5UGOwVCdkHBA==",
+    "package": "https://github.com/sabeehhassan14/endtag-core-releases/releases/download/v0.1.0-alpha.41/endtag-core-0.1.0-alpha.41.zip",
+    "sha256": "a2bdad98801422e3858bbf6eff4d307d29059eb9ddb0d8e4fef9c834143efe4a",
+    "signature": "qyfW4u70v4UoCWzjYd5dpb8mIDuhWaMwW2G6GUQFOwlUNu22Ii4sgbID1neLsyjTeuRPasftJWFEUWnms5NfDg==",
     "tested": "7.1",
     "requires": "6.9",
     "requiresPhp": "8.1",
-    "note": "Admin: module tabs by group (Site, Framework, Tools); switching off names what depends on the module."
+    "note": "Integrations tab: dynamic data keys, icon markup, animation classes and events with copy buttons; icon finder."
   },
   "test": {
     "version": "0.1.0-alpha.18",
