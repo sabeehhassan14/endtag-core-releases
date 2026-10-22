@@ -1,15 +1,15 @@
 {
   "canary": {
-    "version": "0.1.0-alpha.39",
+    "version": "0.1.0-alpha.40",
     "date": "2026-10-22",
-    "class": "fix",
-    "package": "https://github.com/sabeehhassan14/endtag-core-releases/releases/download/v0.1.0-alpha.39/endtag-core-0.1.0-alpha.39.zip",
-    "sha256": "d5158f3138783cf651a2f45df3e6affcd732451fe3b6e1dcf66657b6ce6f9795",
-    "signature": "TMw/Z6LwvqOv6M+N+k6HoHkeipDAxql1BtV3XudhLataCcGlykV1uK4JNjpMMTDBwdn9HO0nuSafxfs8CqGMBg==",
+    "class": "feature",
+    "package": "https://github.com/sabeehhassan14/endtag-core-releases/releases/download/v0.1.0-alpha.40/endtag-core-0.1.0-alpha.40.zip",
+    "sha256": "14748699bd5120dc7792805f6c06ac96686502a59d82d9c1677a39a956238e52",
+    "signature": "xWudLat1ydmCqOSIFED0jzV7qgkmgF76vueewFmWxNd5omH37AfG8A45HRykU+kzYJkGO1tS0m5UGOwVCdkHBA==",
     "tested": "7.1",
     "requires": "6.9",
     "requiresPhp": "8.1",
-    "note": "Consent banner: a card in the bottom corner above fixed headers instead of a bar at the top."
+    "note": "Admin: module tabs by group (Site, Framework, Tools); switching off names what depends on the module."
   },
   "test": {
     "version": "0.1.0-alpha.18",
