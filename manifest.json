@@ -1,15 +1,15 @@
 {
   "canary": {
-    "version": "0.1.0-alpha.33",
+    "version": "0.1.0-alpha.34",
     "date": "2026-10-22",
     "class": "fix",
-    "package": "https://github.com/sabeehhassan14/endtag-core-releases/releases/download/v0.1.0-alpha.33/endtag-core-0.1.0-alpha.33.zip",
-    "sha256": "82ffc5d402ecad4f01a261ddef77113a72d2ef420770409b8db1866635db512f",
-    "signature": "GxX1troMWwK2f3vlRDMPg3t7d3W0idgwsbRlqg/wUw/6xKwT/C0IlgNJdCmhHIQKcKPxCO24QQkzc3fbdYcUDQ==",
+    "package": "https://github.com/sabeehhassan14/endtag-core-releases/releases/download/v0.1.0-alpha.34/endtag-core-0.1.0-alpha.34.zip",
+    "sha256": "2370a0caceb4097c8cc2c1e5c2792888ee4e3e379f46de3e45234ad3a349910e",
+    "signature": "BIw7GfOJjk0Jjm+fdN8OXSbwGylnSqxZWcgMP7ar+oN17IKfCdiIvQ1v4gTMhWP5ib0xZziUkjUdNUGCMCktDw==",
     "tested": "7.1",
     "requires": "6.9",
     "requiresPhp": "8.1",
-    "note": "Consent head script opts out of caching plugins' defer; #consent-settings opens the dialog on arrival."
+    "note": "Consent: #consent-settings opens the dialog on arrival also after the engine held the hash back."
   },
   "test": {
     "version": "0.1.0-alpha.18",
