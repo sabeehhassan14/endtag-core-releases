@@ -1,15 +1,15 @@
 {
   "canary": {
-    "version": "0.1.0-alpha.41",
+    "version": "0.1.0-alpha.42",
     "date": "2026-10-22",
     "class": "feature",
-    "package": "https://github.com/sabeehhassan14/endtag-core-releases/releases/download/v0.1.0-alpha.41/endtag-core-0.1.0-alpha.41.zip",
-    "sha256": "a2bdad98801422e3858bbf6eff4d307d29059eb9ddb0d8e4fef9c834143efe4a",
-    "signature": "qyfW4u70v4UoCWzjYd5dpb8mIDuhWaMwW2G6GUQFOwlUNu22Ii4sgbID1neLsyjTeuRPasftJWFEUWnms5NfDg==",
+    "package": "https://github.com/sabeehhassan14/endtag-core-releases/releases/download/v0.1.0-alpha.42/endtag-core-0.1.0-alpha.42.zip",
+    "sha256": "6af0a8e9760d3cf86cf4f31c459e0cfc293b1db9e7842526e959dd2ba92f1480",
+    "signature": "XpQOOlEJEnUZzjppWdRlxSu4X/mCGgSHgNRDo7ftWzs/Wx1qfi3tvzvGoLU6KvOj647mmvd0RyrMQXkSkGS/DA==",
     "tested": "7.1",
     "requires": "6.9",
     "requiresPhp": "8.1",
-    "note": "Integrations tab: dynamic data keys, icon markup, animation classes and events with copy buttons; icon finder."
+    "note": "Assets view with versions and serve switches; consent panel credit, removable with White label."
   },
   "test": {
     "version": "0.1.0-alpha.18",
